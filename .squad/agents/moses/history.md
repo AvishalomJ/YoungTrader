@@ -15,7 +15,32 @@ Agent Moses initialized as Lead. Responsible for architecture, code review, and 
 
 ## Learnings
 
-Initial setup complete.
+### WI-1 & WI-2: GitHub Repo & Project Scaffold — 2026-04-22
+
+✅ **GitHub Repository**
+- Repository: https://github.com/AvishalomJ/YoungTrader
+- Owner: AvishalomJ
+- Branch: master
+- Initial commit: `67f4510` (124 files, 6449 insertions)
+
+✅ **Project Scaffold Complete**
+- Full folder structure created per decision: moses-folder-structure.md
+- All 54 TypeScript placeholder files created with TODOs
+- Configuration files: tsconfig.json, tailwind.config.ts, next.config.ts, package.json
+- .env.example with API key template
+- .gitignore with Next.js + Node standards
+- README.md with project overview
+
+✅ **GitHub Issues Created (8 total)**
+- Epic 1: #1 (Next.js init), #2 (Theme/Typography)
+- Epic 2: #3 (FinancialAPI), #4 (InvestmentEngine)
+- Epic 3: #5 (SimulationForm), #6 (GrowthChart)
+- Epic 4: #7 (MilestonePopups), #8 (Mobile QA)
+
+✅ **Labels Created (11 total)**
+- epic-1, epic-2, epic-3, epic-4
+- squad:miriam, squad:joseph, squad:deborah, squad:moses
+- P0, P1, P2
 
 ### Phase 1 Research — 2026-04-22
 
