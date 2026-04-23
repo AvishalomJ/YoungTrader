@@ -1,0 +1,13 @@
+[
+  {
+    "assignment_id": "youngtrader-bible-001",
+    "universe": "bible",
+    "created_at": "2026-04-22T00:35:00Z",
+    "agents": [
+      { "name": "Moses", "role": "Lead" },
+      { "name": "Miriam", "role": "Frontend Dev" },
+      { "name": "Joseph", "role": "Backend Dev" },
+      { "name": "Deborah", "role": "Tester" }
+    ]
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "allowed_universes": ["bible"],
+  "max_agents_per_universe": 20,
+  "overflow_strategy": "diegetic_expansion",
+  "naming_rules": {
+    "scribe_exempt": true,
+    "ralph_exempt": true,
+    "copilot_exempt": true,
+    "no_roleplay": true,
+    "no_catchphrases": true
+  }
+}
